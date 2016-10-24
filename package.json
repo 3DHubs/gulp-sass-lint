@@ -24,7 +24,7 @@
   "homepage": "https://github.com/sasstools/gulp-sass-lint#readme",
   "dependencies": {
     "gulp-util": "^3.0.6",
-    "sass-lint": "git@github.com:sasstools/sass-lint.git#feature\/disable-linters",
+    "sass-lint": "sasstools/sass-lint#feature/disable-linters",
     "through2": "^2.0.0"
   },
   "devDependencies": {
